@@ -11,6 +11,13 @@
  * 
  */
 
+#define BUTTON_A 5
+#define BUTTON_B 11
+
+#define SCREEN_WIDTH 240
+#define SCREEN_HEIGHT 240
+#define CELL_SIZE 8
+
 #define FRAME_DELAY 1000
 #define FPS 10
 #define MSPF FRAME_DELAY / FPS
